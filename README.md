@@ -2,8 +2,8 @@
 partie de Othmane
 
 Planning : 
-S1: Buzzer ("tête" de la taupe)
-S2: Points
+S1: Points
+S2: Buzzer ("Tête de la taupe")
 S3: Taupes piégées
 S4: Entrées taupes
 S5: Système de taupes à durée limitée
