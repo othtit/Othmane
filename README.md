@@ -21,17 +21,18 @@ Cahier des charges pour le Tape-Taupe en Arduino
 Objectif général :
 Développer un jeu de tape-taupe interactif utilisant la plateforme Arduino, implémentant différentes fonctionnalités au cours d'un projet étalé sur huit semaines.
 
-Semaine 1 - Sons des taupes :
+Semaine 1 - Sons des taupes et Points :
 
     Intégrer un buzzer pour la génération de sons.
     Définir une variété de sons pour les différentes actions des taupes.
     Assurer une gestion propre des fichiers audio.
+    Afficher les informations sur un écran LECD (points etc...)
 
-Semaine 2 - Timer et Points :
+
+Semaine  - Timer et Interrupteurs :
 
     Intégrer un système de timer pour déterminer la durée du jeu.
-    Implémenter un système de points pour mesurer la performance du joueur.
-    Afficher les informations sur un écran LED.
+    Implémenter des interrupteurs pour appuyer sur les taupes.
 
 Semaine 3 - Utilisation laser sur la taupe :
 
