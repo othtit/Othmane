@@ -1,0 +1,25 @@
+Rapport sur l'Implémentation du Timer avec Écran LCD - Semaine 1
+
+L'objectif de la première semaine était d'intégrer un timer au jeu de tape-taupe, avec un affichage sur un écran LCD (pas fait en TP). Pour ce faire, j'ai réouvert le cours du professeur Masson pour comprendre les principes de base de l'utilisation de l'écran LCD avec Arduino. Il était essentiel de maîtriser cette compétence pour l'affichage du timer dans notre jeu.
+
+Apprentissage de l'Écran LCD :
+
+La compréhension de l'écran LCD a été cruciale pour afficher correctement le timer dans notre jeu. J'ai parcouru les différentes leçons du cours et les exemples fournis par le professeur Masson. Les principaux concepts tels que l'initialisation de l'écran, l'écriture de texte et la gestion des positions ont été rapidement comprises pendant le TP.
+
+Déplacement de l'Étape des "Boutons" (Taupes) et Planification :
+
+Suite à l'indisponibilité du matériel nécessaire pour les boutons servant de taupes, nous avons pris la décision de déplacer cette étape à une semaine ultérieure. Cela a exigé une révision du planning initial. Cependant, pour maximiser l'utilisation du temps, j'ai décidé de commencer à explorer des ressources en ligne sur le fonctionnement des boutons et des capteurs, préparant ainsi le terrain pour les semaines à venir.
+
+ Demande de Matériel Additionnel :
+
+
+Pour assurer une transition fluide vers les prochaines étapes, j'ai sollicité un autre "shield" auprès d'un professeur pour faciliter les branchements futurs, en particulier ceux associés aux boutons et aux capteurs nécessaires à la détection des taupes.
+
+
+Alors, pour conclure :
+
+La première semaine a été consacrée à l'apprentissage de l'utilisation de l'écran LCD, essentiel pour afficher le timer dans notre jeu de tape-taupe. Malgré le déplacement de l'étape des boutons, cette période a été mise à profit pour explorer des ressources en ligne, ce qui contribuera à une meilleure préparation pour les semaines à venir. La demande de matériel additionnel garantit une transition en douceur vers les modules suivants. 
+Ce processus a renforcé mes compétences en résolution de problèmes et en gestion de projet Arduino. :)
+
+Le plus grand problème auquel nous avons fait face avec Titouan (et c'était le cas d'autres groupes), était le dysfonctionnement de l'Idle Arduino qui a nous a demandé de réinstaller le driver CH340.
+
